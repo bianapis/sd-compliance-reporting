@@ -1,0 +1,9 @@
+{
+  "complianceReportingAdministrativePlanPlan" : "complianceReportingAdministrativePlanPlan",
+  "complianceReportingAdministrativePlanBudgetType" : "complianceReportingAdministrativePlanBudgetType",
+  "complianceReportingAdministrativePlanInitiateActionReference" : "CRAPIAR776459",
+  "complianceReportingAdministrativePlanInstanceReference" : "CRAPIR773704",
+  "complianceReportingAdministrativePlanInitiateActionRecord" : {},
+  "complianceReportingAdministrativePlanInstanceStatus" : "complianceReportingAdministrativePlanInstanceStatus",
+  "complianceReportingAdministrativePlanAssignment" : "complianceReportingAdministrativePlanAssignment"
+}

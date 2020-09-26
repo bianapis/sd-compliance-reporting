@@ -1,0 +1,26 @@
+{
+  "complianceAssessmentWorkSchedule" : "complianceAssessmentWorkSchedule",
+  "complianceAssessmentRetrieveActionTaskReference" : "CARATR753060",
+  "complianceAssessmentPreconditions" : "complianceAssessmentPreconditions",
+  "auditandReporting" : "auditandReporting",
+  "complianceAssessmentAuditandReportingServiceDescription" : "complianceAssessmentAuditandReportingServiceDescription",
+  "complianceAssessmentPostconditions" : "complianceAssessmentPostconditions",
+  "complianceAssessmentRetrieveActionTaskRecord" : {},
+  "complianceAssessmentInstanceReport" : {
+    "complianceAssessmentInstanceReport" : {},
+    "complianceAssessmentInstanceReportParameters" : "complianceAssessmentInstanceReportParameters",
+    "complianceAssessmentInstanceReportRecord" : {},
+    "complianceAssessmentInstanceReportType" : "complianceAssessmentInstanceReportType"
+  },
+  "complianceAssessmentAuditandReportingServiceInputsandOuputs" : "complianceAssessmentAuditandReportingServiceInputsandOuputs",
+  "complianceAssessmentInstanceAnalysis" : {
+    "complianceAssessmentInstanceAnalysisReportType" : "complianceAssessmentInstanceAnalysisReportType",
+    "complianceAssessmentInstanceAnalysisReport" : {},
+    "complianceAssessmentInstanceAnalysisRecord" : {},
+    "complianceAssessmentInstanceAnalysisParameters" : "complianceAssessmentInstanceAnalysisParameters"
+  },
+  "complianceAssessmentAuditandReportingServiceType" : "complianceAssessmentAuditandReportingServiceType",
+  "complianceAssessmentRetrieveActionResponse" : "complianceAssessmentRetrieveActionResponse",
+  "complianceAssessmentBusinessUnitEmployeeReference" : "CABUR790377",
+  "complianceAssessmentAuditandReportingServiceWorkProduct" : "complianceAssessmentAuditandReportingServiceWorkProduct"
+}

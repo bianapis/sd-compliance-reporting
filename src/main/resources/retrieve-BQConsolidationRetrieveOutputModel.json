@@ -1,0 +1,27 @@
+{
+  "consolidationInstanceReport" : {
+    "consolidationInstanceReportType" : "consolidationInstanceReportType",
+    "consolidationInstanceReport" : {},
+    "consolidationInstanceReportParameters" : "consolidationInstanceReportParameters",
+    "consolidationInstanceReportRecord" : {}
+  },
+  "businessService" : "businessService",
+  "consolidationInstanceAnalysis" : {
+    "consolidationInstanceAnalysisReportType" : "consolidationInstanceAnalysisReportType",
+    "consolidationInstanceAnalysisParameters" : "consolidationInstanceAnalysisParameters",
+    "consolidationInstanceAnalysisRecord" : {},
+    "consolidationInstanceAnalysisReport" : {}
+  },
+  "consolidationServiceWorkProduct" : "consolidationServiceWorkProduct",
+  "consolidationBusinessUnitEmployeeReference" : "CBUR740595",
+  "consolidationWorkSchedule" : "consolidationWorkSchedule",
+  "consolidationRetrieveActionTaskReference" : "CRATR792808",
+  "consolidationServiceType" : "consolidationServiceType",
+  "consolidationServiceDescription" : "consolidationServiceDescription",
+  "consolidationPostconditions" : "consolidationPostconditions",
+  "consolidationServiceInputsandOuputs" : "consolidationServiceInputsandOuputs",
+  "consolidationRetrieveActionTaskRecord" : {},
+  "consolidationRetrieveActionResponse" : "consolidationRetrieveActionResponse",
+  "consolidationServiceName" : "consolidationServiceName",
+  "consolidationPreconditions" : "consolidationPreconditions"
+}

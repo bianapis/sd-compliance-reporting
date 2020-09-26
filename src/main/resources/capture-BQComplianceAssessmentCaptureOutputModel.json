@@ -1,0 +1,15 @@
+{
+  "complianceAssessmentWorkSchedule" : "complianceAssessmentWorkSchedule",
+  "complianceAssessmentPreconditions" : "complianceAssessmentPreconditions",
+  "auditandReporting" : "auditandReporting",
+  "complianceAssessmentAuditandReportingServiceDescription" : "complianceAssessmentAuditandReportingServiceDescription",
+  "complianceAssessmentPostconditions" : "complianceAssessmentPostconditions",
+  "complianceAssessmentCaptureActionTaskReference" : "CACATR758241",
+  "complianceAssessmentAuditandReportingServiceInputsandOuputs" : "complianceAssessmentAuditandReportingServiceInputsandOuputs",
+  "complianceAssessmentAuditandReportingServiceType" : "complianceAssessmentAuditandReportingServiceType",
+  "complianceAssessmentBusinessUnitEmployeeReference" : "CABUR749933",
+  "complianceAssessmentCaptureRecordReference" : "CACRR770115",
+  "complianceAssessmentAuditandReportingServiceWorkProduct" : "complianceAssessmentAuditandReportingServiceWorkProduct",
+  "captureResponseRecord" : {},
+  "complianceAssessmentCaptureActionTaskRecord" : {}
+}

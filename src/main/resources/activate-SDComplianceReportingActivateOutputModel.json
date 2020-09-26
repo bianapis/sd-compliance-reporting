@@ -1,0 +1,24 @@
+{
+  "complianceReportingActivationActionTaskRecord" : {},
+  "complianceReportingServicingSessionReference" : "SSSR783215",
+  "complianceReportingServicingSessionStatus" : "complianceReportingServicingSessionStatus",
+  "complianceReportingServiceConfigurationRecord" : {
+    "complianceReportingServiceConfigurationSetup" : {
+      "complianceReportingServiceConfigurationParameter" : "complianceReportingServiceConfigurationParameter"
+    },
+    "complianceReportingServiceAgreement" : {
+      "complianceReportingServiceAgreementTermsandConditions" : "complianceReportingServiceAgreementTermsandConditions",
+      "complianceReportingServiceAgreementReference" : "791202",
+      "complianceReportingServiceUserReference" : "767210"
+    },
+    "complianceReportingServiceConfigurationSettingReference" : "700761",
+    "complianceReportingServiceSubscription" : {
+      "complianceReportingServiceSubscriberAccessProfile" : "complianceReportingServiceSubscriberAccessProfile",
+      "complianceReportingServiceSubscriberReference" : "769192"
+    },
+    "complianceReportingServiceStatus" : "complianceReportingServiceStatus",
+    "complianceReportingServiceConfigurationSettingDescription" : "complianceReportingServiceConfigurationSettingDescription"
+  },
+  "complianceReportingActivationActionTaskReference" : "SAATR758836",
+  "complianceReportingServicingSessionRecord" : {}
+}

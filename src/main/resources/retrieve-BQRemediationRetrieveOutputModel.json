@@ -1,0 +1,27 @@
+{
+  "remediationRetrieveActionTaskRecord" : {},
+  "remediationPreconditions" : "remediationPreconditions",
+  "remediationInstanceReport" : {
+    "remediationInstanceReport" : {},
+    "remediationInstanceReportParameters" : "remediationInstanceReportParameters",
+    "remediationInstanceReportType" : "remediationInstanceReportType",
+    "remediationInstanceReportRecord" : {}
+  },
+  "remediationBusinessUnitEmployeeReference" : "RBUR725659",
+  "remediationRemediationAssuranceServiceType" : "remediationRemediationAssuranceServiceType",
+  "remediationRemediationAssuranceServiceInputsandOuputs" : "remediationRemediationAssuranceServiceInputsandOuputs",
+  "remediationRemediationAssuranceServiceDescription" : "remediationRemediationAssuranceServiceDescription",
+  "remediationPostconditions" : "remediationPostconditions",
+  "remediationRetrieveActionResponse" : "remediationRetrieveActionResponse",
+  "remediationWorkSchedule" : "remediationWorkSchedule",
+  "remediationAssurance" : "remediationAssurance",
+  "remediationInstanceAnalysis" : {
+    "remediationInstanceAnalysisRecord" : {},
+    "remediationInstanceAnalysisParameters" : "remediationInstanceAnalysisParameters",
+    "remediationInstanceAnalysisReport" : {},
+    "remediationInstanceAnalysisReportType" : "remediationInstanceAnalysisReportType"
+  },
+  "remediationRemediationAssuranceServiceName" : "remediationRemediationAssuranceServiceName",
+  "remediationRemediationAssuranceServiceWorkProduct" : "remediationRemediationAssuranceServiceWorkProduct",
+  "remediationRetrieveActionTaskReference" : "RRATR778510"
+}

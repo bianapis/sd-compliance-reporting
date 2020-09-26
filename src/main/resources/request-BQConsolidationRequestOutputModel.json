@@ -1,0 +1,16 @@
+{
+  "consolidationRequestActionTaskRecord" : {},
+  "businessService" : "businessService",
+  "consolidationServiceWorkProduct" : "consolidationServiceWorkProduct",
+  "consolidationBusinessUnitEmployeeReference" : "CBUR774904",
+  "consolidationWorkSchedule" : "consolidationWorkSchedule",
+  "consolidationRequestActionTaskReference" : "CRATR771006",
+  "requestResponseRecord" : {},
+  "consolidationServiceType" : "consolidationServiceType",
+  "consolidationServiceDescription" : "consolidationServiceDescription",
+  "consolidationPostconditions" : "consolidationPostconditions",
+  "consolidationServiceInputsandOuputs" : "consolidationServiceInputsandOuputs",
+  "consolidationServiceName" : "consolidationServiceName",
+  "consolidationRequestRecordReference" : "CRRR743212",
+  "consolidationPreconditions" : "consolidationPreconditions"
+}

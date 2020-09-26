@@ -1,0 +1,16 @@
+{
+  "remediationCaptureActionTaskRecord" : {},
+  "remediationPreconditions" : "remediationPreconditions",
+  "remediationBusinessUnitEmployeeReference" : "RBUR747393",
+  "remediationRemediationAssuranceServiceType" : "remediationRemediationAssuranceServiceType",
+  "remediationRemediationAssuranceServiceInputsandOuputs" : "remediationRemediationAssuranceServiceInputsandOuputs",
+  "remediationRemediationAssuranceServiceDescription" : "remediationRemediationAssuranceServiceDescription",
+  "remediationPostconditions" : "remediationPostconditions",
+  "remediationCaptureRecordReference" : "RCRR741710",
+  "remediationCaptureActionTaskReference" : "RCATR738324",
+  "remediationWorkSchedule" : "remediationWorkSchedule",
+  "remediationAssurance" : "remediationAssurance",
+  "remediationRemediationAssuranceServiceName" : "remediationRemediationAssuranceServiceName",
+  "remediationRemediationAssuranceServiceWorkProduct" : "remediationRemediationAssuranceServiceWorkProduct",
+  "captureResponseRecord" : {}
+}

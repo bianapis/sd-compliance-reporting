@@ -1,0 +1,19 @@
+{
+  "complianceReportingAdministrativePlanPlan" : "complianceReportingAdministrativePlanPlan",
+  "complianceReportingAdministrativePlanBudgetType" : "complianceReportingAdministrativePlanBudgetType",
+  "complianceReportingAdministrativePlanReference" : "CRAPR719037",
+  "complianceReportingAdministrativePlanInstanceReportRecord" : {
+    "complianceReportingAdministrativePlanInstanceReportType" : "complianceReportingAdministrativePlanInstanceReportType",
+    "complianceReportingAdministrativePlanInstanceReport" : {},
+    "complianceReportingAdministrativePlanInstanceReportData" : "complianceReportingAdministrativePlanInstanceReportData"
+  },
+  "complianceReportingAdministrativePlanRetrieveActionTaskReference" : "CRAPRATR739900",
+  "complianceReportingAdministrativePlanRetrieveActionResponse" : "complianceReportingAdministrativePlanRetrieveActionResponse",
+  "complianceReportingAdministrativePlanRetrieveActionTaskRecord" : {},
+  "complianceReportingAdministrativePlanInstanceAnalysis" : {
+    "complianceReportingAdministrativePlanInstanceAnalysisReportType" : "complianceReportingAdministrativePlanInstanceAnalysisReportType",
+    "complianceReportingAdministrativePlanInstanceAnalysisReport" : {},
+    "complianceReportingAdministrativePlanInstanceAnalysisData" : "complianceReportingAdministrativePlanInstanceAnalysisData"
+  },
+  "complianceReportingAdministrativePlanAssignment" : "complianceReportingAdministrativePlanAssignment"
+}

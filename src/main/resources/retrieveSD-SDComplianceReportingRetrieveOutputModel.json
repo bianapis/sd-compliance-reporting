@@ -1,0 +1,39 @@
+{
+  "complianceReportingRetrieveActionTaskRecord" : {},
+  "complianceReportingRetrieveActionRecord" : {
+    "complianceReportingActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    },
+    "complianceReportingPerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    },
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    }
+  },
+  "complianceReportingOfferedService" : {
+    "complianceReportingServiceRecord" : {
+      "complianceReportingServiceSchedule" : "complianceReportingServiceSchedule",
+      "complianceReportingServiceDescription" : "complianceReportingServiceDescription",
+      "complianceReportingServiceType" : "complianceReportingServiceType",
+      "complianceReportingServiceVersion" : "complianceReportingServiceVersion",
+      "complianceReportingServicePoliciesandGuidelines" : {
+        "complianceReportingServiceIntendedUses" : "complianceReportingServiceIntendedUses",
+        "complianceReportingServiceEligibility" : "complianceReportingServiceEligibility",
+        "complianceReportingServicePricingandTerms" : "complianceReportingServicePricingandTerms"
+      }
+    },
+    "complianceReportingServiceReference" : "776158"
+  },
+  "complianceReportingRetrieveActionTaskReference" : "SRATR795161",
+  "complianceReportingRetrieveActionResponse" : "complianceReportingRetrieveActionResponse"
+}
